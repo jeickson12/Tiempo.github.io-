@@ -1,4 +1,4 @@
-# Página de dia de San valentin 
+# Página de tiempos
 Un proyecto especial creado con amor y código para celebrar un dia especial
 ## Descripción
 Esta página web contiene tres secciones:
